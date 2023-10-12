@@ -1,0 +1,67 @@
+body{  
+    background-color: black;
+   
+}
+h1,h2,h3{
+    color: white;
+
+}
+[type="text"], [type="email"]{
+    height: 35px;
+    width: 300px;
+    margin: 5px 0px;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    align-content: center;
+    text-align: center;
+    
+
+}
+ span {
+    color: grey;
+}
+[type="button"]{
+
+    height: 35px;
+    width: 300px;
+    margin: 5px 0px;
+    border-radius: 15px;
+    background-color:rgb(0, 0, 0);
+    font-size: medium;
+    color: #1DA1F2;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+div{
+    color: gainsboro;
+}
+a{
+    color:#1DA1F2;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
+image{
+    align-self: right;
+}
+[type="submit"]{
+    height: 35px;
+    width: 300px;
+    margin: 5px 0px;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    align-content: center;
+    text-align: center;
+    background-color: #1DA1F2;
+    color: white;
+    
+
+}

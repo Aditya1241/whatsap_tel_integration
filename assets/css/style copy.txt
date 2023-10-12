@@ -1,0 +1,145 @@
+/*h1{
+
+    color: bisque;
+}
+
+b{color: blue;}
+*/
+/*
+#one{
+    color: red;
+
+}
+
+#two{color: greenyellow;}
+
+#three{color: blue;}
+
+.select{
+
+    color: navy;
+}
+
+
+h1,hr,b{color: greenyellow;}
+#one,b{color: red;}
+
+.select,h1,#two{
+    color: blue;
+}
+body{
+
+    background-color: antiquewhite;
+}
+*{
+    background-color: bisque;
+}
+div>p{
+
+    color: red;
+}
+div~p{
+
+    color: red;
+}
+
+pseudo selector
+a:link{
+    color: white;
+}
+a:hover{
+    color: red;
+}
+[type="number"]{
+
+    color: pink;
+}
+[class*="test"]{
+
+    color: red;
+}
+color property
+
+h1{
+    color: rgb(255, 176, 159  );
+
+}
+p{
+
+    color: blue;
+}
+
+*{
+    background-color: rgb(246, 255, 213);
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through
+    
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-indent: 30;
+    word-spacing: 25px;
+     letter-spacing: 30px;
+     line-height: 30px;
+
+}
+*/
+
+[type="submit"]{
+/*
+    background-color: #7f96ffcd;
+    height: height="51px" width="175px";
+    border-radius: 25px; */
+    height: 35px;
+    margin: 5px 0px;
+    background-color: #2196f3;
+    border: none;
+    border-radius:  5px;
+    width: 40%;
+
+}
+
+a{
+    text-decoration: none;
+    color:#2196f3;
+}
+h6{
+    text-align: center;
+    
+}
+table{
+    border-radius: 5px;
+    border-spacing: 0cm;
+}
+input{
+
+    margin: 5px 0px;
+    height: 35px;
+    padding: 7px;
+}
+a:hover{
+    color: rgb(241, 22, 22);
+}
+image{
+    align-items: center;
+}
+select{
+ color: #2196f3 ;
+}
+h6{
+    font-size: medium;
+}
+
+
+
+
+
+
+
+
+ 
